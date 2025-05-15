@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:115759246759:android:0ce2f9340defb6a27b5a82",
+        "mobilesdk_app_id": "your-id-placeit-here",
         "android_client_info": {
           "package_name": "com.example.d_zoneeee"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAHds2IHo0VB-yKUcAEr8n3VQv-Bnqk6ZY"
+          "current_key": "here-your-api-key"
         }
       ],
       "services": {
