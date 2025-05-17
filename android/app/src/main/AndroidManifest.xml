@@ -3,7 +3,7 @@
 
 
 
-    <!-- ✅ Add these permissions here -->
+    <!--  Add these permissions here -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
@@ -40,7 +40,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
 
-        <!-- ✅ Google Maps API key -->
+        <!--  Google Maps API key -->
         <meta-data
             android:name="name-here"
             android:value="value-key-here" />
